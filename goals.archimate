@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-8cf661a98e1b4edfa28c6e818fe3a6de" version="5.0.0">
+  <folder name="Strategy" id="id-42a34f79c1c74d05a0e6420d87a99b30" type="strategy"/>
+  <folder name="Business" id="id-c1e88dbd8ee84360ab25996a1fd5f0a4" type="business"/>
+  <folder name="Application" id="id-24c7c775ec3a48149e7cbb6c02a5cc6f" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-65c6a00777cb49ed978bcc3767b18c4b" type="technology"/>
+  <folder name="Motivation" id="id-8b2c5fdb69f64e57b5f15f31cd4f23a9" type="motivation">
+    <folder name="Stakeholders" id="id-c81412ab051c48e3bb3208f93bbaacff">
+      <element xsi:type="archimate:Stakeholder" name="Marketing team" id="id-127b218f7bc74cc3bc5be3cdffc8ceb1"/>
+      <element xsi:type="archimate:Stakeholder" name="Internal operations team" id="id-7815769d3a904a41b9f1c504a5f5e610"/>
+      <element xsi:type="archimate:Stakeholder" name="Event organizers" id="id-5dda39c3d0904117a9bb16d74bd23716"/>
+    </folder>
+    <folder name="Drivers" id="id-a3cc9017e42f4df99e05152fbeb1cd16">
+      <element xsi:type="archimate:Driver" name="Increase brand awareness" id="id-1924cbb0d7bf4d3cb2c6cbbe5c6d1aa0"/>
+      <element xsi:type="archimate:Driver" name="Optimize resource utilization" id="id-f9da1550a500454da46fdc24b26682e9"/>
+    </folder>
+    <folder name="Goals" id="id-2ecd0cfe4a394af39bbcd07ebcda1cd0">
+      <element xsi:type="archimate:Goal" name="Increase social media outreach with 30%" id="id-ee561d2cef1044489317eb014d8ee83b"/>
+      <element xsi:type="archimate:Goal" name="Leverage cross-platform posting" id="id-8d44b8efcefc4fbfb34907fcb7b66aff"/>
+      <element xsi:type="archimate:Goal" name="Run social media ad campaigns" id="id-cd7ee243f97643bbbd1105f32b7a6d5e"/>
+      <element xsi:type="archimate:Goal" name="Streamline administrative tasks through automation" id="id-1abacc7867ce4a768a68242153d6c1b0"/>
+      <element xsi:type="archimate:Goal" name="Expand marketing activities to a broader audience" id="id-64de48499dba489da52b15e12b20c3f5"/>
+      <element xsi:type="archimate:Goal" name="Improve content quality" id="id-7debefdfd2f24dc292aaf07c2aaf57af"/>
+      <element xsi:type="archimate:Goal" name="Create engaging content" id="id-5f420c416e52403bb0af8b190720287e"/>
+      <element xsi:type="archimate:Goal" name="Optimize internal operations" id="id-4a1c7e1212dd407ca16f468bf3240d34"/>
+      <element xsi:type="archimate:Goal" name="Improve internal communication between local departments" id="id-d0d8ed34487d407d91bab6bfcccd42ba"/>
+      <element xsi:type="archimate:Goal" name="Increase participation in events and initiatives" id="id-431303bf1ca3483ebf7306dbec28ad50"/>
+      <element xsi:type="archimate:Goal" name="Secure funding for marketing initiatives" id="id-e6b86a729a5f404685eda9d59545f376"/>
+    </folder>
+    <element xsi:type="archimate:Assessment" name="Access to free tools for content creation" id="id-86312eb280d443e490e19eefd01b4156"/>
+    <element xsi:type="archimate:Assessment" name="Reduce steps in promoting" id="id-a0536b783a074745a015301634866c6a"/>
+    <element xsi:type="archimate:Assessment" name="High cost of social media campaigns" id="id-8ae49e8e86b1464ba5ca34a45726a479"/>
+    <element xsi:type="archimate:Assessment" name="Funding tend to be restricted" id="id-d6ae30b172774463ba3590e7bfb1ef05"/>
+    <element xsi:type="archimate:Constraint" name="Limited budget" id="id-5a28a916d9154c1cb1d9a4d5ff68a48c"/>
+    <element xsi:type="archimate:Constraint" name="Time limitations for volunteers" id="id-9e87e19c606c46c1a039531cca77e987"/>
+    <element xsi:type="archimate:Principle" name="Ensure content consistency across platforms" id="id-79585c9e43824b439fd551a6cea290cd"/>
+    <element xsi:type="archimate:Outcome" name="Increase in social media followers by 30 %" id="id-b7dac04a67b74f19b72781a8e77a024f"/>
+    <element xsi:type="archimate:Outcome" name="Higher engagement rates" id="id-4a52a82cc11c44c3b4981034e566ef17"/>
+    <element xsi:type="archimate:Value" name="Increased brand visibility" id="id-08043f1eb6c94dc6a24a66d1a1c8031b"/>
+    <element xsi:type="archimate:Meaning" name="Social media outreach is critical to brand visibility" id="id-5e8fc1deb2e143cf945ba75a7df12359"/>
+  </folder>
+  <folder name="Implementation &amp; Migration" id="id-544f33ffe500422996158d2e6f9fffd6" type="implementation_migration"/>
+  <folder name="Other" id="id-9a764d820bcf4395851343aa7afd9c82" type="other"/>
+  <folder name="Relations" id="id-f7cd127d17534db8a29b15394dd01c9c" type="relations">
+    <element xsi:type="archimate:AssociationRelationship" id="id-45a74df958b24a0fa93cb0725fa4e704" source="id-1924cbb0d7bf4d3cb2c6cbbe5c6d1aa0" target="id-ee561d2cef1044489317eb014d8ee83b"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-25bcae8c112549eea48e910e4d99c969" source="id-64de48499dba489da52b15e12b20c3f5" target="id-cd7ee243f97643bbbd1105f32b7a6d5e"/>
+    <element xsi:type="archimate:AggregationRelationship" id="id-0d6d2acd42db4a26bc845c9b1e4ee03f" source="id-64de48499dba489da52b15e12b20c3f5" target="id-8d44b8efcefc4fbfb34907fcb7b66aff"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-603ed8af58e044fc9deee12f14bc60e2" source="id-cd7ee243f97643bbbd1105f32b7a6d5e" target="id-0d6d2acd42db4a26bc845c9b1e4ee03f"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-26ef5866c0e3461d9c5a75306cb32537" source="id-127b218f7bc74cc3bc5be3cdffc8ceb1" target="id-1924cbb0d7bf4d3cb2c6cbbe5c6d1aa0"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-708bff28d00e443c9f5b64a03ace5f0b" source="id-7815769d3a904a41b9f1c504a5f5e610" target="id-f9da1550a500454da46fdc24b26682e9"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-13878d3df5eb4def8a7e751bf4986d6d" source="id-8d44b8efcefc4fbfb34907fcb7b66aff" target="id-25bcae8c112549eea48e910e4d99c969"/>
+  </folder>
+  <folder name="Views" id="id-cf1f49fe45f6497fa782a84cfe598032" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-b15490b8fc894a659b3e3aa1f2fb8da9">
+      <child xsi:type="archimate:DiagramObject" id="id-87f107de21e947ac9a1bed5862d2f19d" archimateElement="id-5dda39c3d0904117a9bb16d74bd23716">
+        <bounds x="924" y="276" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e69cacd278b64897aa9c75a8ac2ec3cf" archimateElement="id-7815769d3a904a41b9f1c504a5f5e610">
+        <bounds x="624" y="240" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-aaffc72ce09a4a0c963c789fd6c5ae5c" source="id-e69cacd278b64897aa9c75a8ac2ec3cf" target="id-5b2e240357fb46c596bfb7ef93dff86d" archimateRelationship="id-708bff28d00e443c9f5b64a03ace5f0b"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-3455be34ebfc4456b2fe7ccddff9b443" archimateElement="id-127b218f7bc74cc3bc5be3cdffc8ceb1">
+        <bounds x="252" y="216" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-eef0c39c4a114016a94df9035276c96f" source="id-3455be34ebfc4456b2fe7ccddff9b443" target="id-d9f94ed0b911458da1c385907e70a6db" archimateRelationship="id-26ef5866c0e3461d9c5a75306cb32537"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-d9f94ed0b911458da1c385907e70a6db" targetConnections="id-eef0c39c4a114016a94df9035276c96f" archimateElement="id-1924cbb0d7bf4d3cb2c6cbbe5c6d1aa0">
+        <bounds x="251" y="330" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-8b116be7d27f461b992f7aa5c71b9314" source="id-d9f94ed0b911458da1c385907e70a6db" target="id-5bb14d73156e458698d79c6c571831da" archimateRelationship="id-45a74df958b24a0fa93cb0725fa4e704"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-5b2e240357fb46c596bfb7ef93dff86d" targetConnections="id-aaffc72ce09a4a0c963c789fd6c5ae5c" archimateElement="id-f9da1550a500454da46fdc24b26682e9">
+        <bounds x="624" y="372" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-5bb14d73156e458698d79c6c571831da" targetConnections="id-8b116be7d27f461b992f7aa5c71b9314" archimateElement="id-ee561d2cef1044489317eb014d8ee83b">
+        <bounds x="252" y="426" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-d427be3b5a124e79ab2f091db11ed1d6" archimateElement="id-64de48499dba489da52b15e12b20c3f5">
+        <bounds x="240" y="540" width="144" height="60"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-ddc43b2372034dd589f8e83e17f8b121" targetConnections="id-6c951aa16a484dd096466d7ea4fde1db" source="id-d427be3b5a124e79ab2f091db11ed1d6" target="id-816d24aa3b34452ab53e0e0786c9f121" archimateRelationship="id-25bcae8c112549eea48e910e4d99c969">
+          <bendpoint startY="82" endX="108" endY="-62"/>
+        </sourceConnection>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-816d24aa3b34452ab53e0e0786c9f121" targetConnections="id-ddc43b2372034dd589f8e83e17f8b121" archimateElement="id-cd7ee243f97643bbbd1105f32b7a6d5e">
+        <bounds x="156" y="684" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-c7480347299d4b808ab6b2fc3d3df7f8" archimateElement="id-8d44b8efcefc4fbfb34907fcb7b66aff">
+        <bounds x="370" y="684" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-6c951aa16a484dd096466d7ea4fde1db" source="id-c7480347299d4b808ab6b2fc3d3df7f8" target="id-ddc43b2372034dd589f8e83e17f8b121" archimateRelationship="id-13878d3df5eb4def8a7e751bf4986d6d"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
