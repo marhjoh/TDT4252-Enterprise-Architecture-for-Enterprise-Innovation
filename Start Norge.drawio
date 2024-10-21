@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.15" pages="8">
   <diagram id="35nasw9TemPxgQ9xhalj" name="main_goals_of_start_norge">
     <mxGraphModel dx="2501" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -908,6 +908,94 @@
         <mxCell id="uMAMLh_HMc_WKpQ-cuBB-1" value="&lt;div&gt;Goal 1.2&lt;/div&gt;&lt;div&gt;Increase social media outreach with 30% (+)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="333.6" y="100.42" width="150" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7MbOHX-tXkvpL_bUAHG1" name="business_process">
+    <mxGraphModel dx="1192" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-3" target="Y2r3BIoxPLuxaXFssLte-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-2" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-1">
+          <mxGeometry x="-0.2222" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-3" value="&lt;b&gt;Process 1&lt;/b&gt;&lt;hr&gt;Approve social media content&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-6" target="Y2r3BIoxPLuxaXFssLte-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-5" value="triggers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-4">
+          <mxGeometry x="-0.4444" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-6" value="Information Set 1&lt;div&gt;Content is submitted for approval&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-7" value="Information Set 2&lt;div&gt;Approved content is ready for scheduling&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-10" target="Y2r3BIoxPLuxaXFssLte-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-9" value="triggers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-8">
+          <mxGeometry x="0.1154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-10" value="Information Set 4&lt;div&gt;Approved content is scheduled&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-13" target="Y2r3BIoxPLuxaXFssLte-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-12" value="triggers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-11">
+          <mxGeometry x="0.0667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-13" value="Information Set 3&lt;div&gt;Approved content is ready for publication&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="310" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-14" value="Information Set 5&lt;div&gt;Content is published on social media platforms&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-17" target="Y2r3BIoxPLuxaXFssLte-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-16" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-15">
+          <mxGeometry x="0.1381" y="4" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-17" value="&lt;b&gt;Process 2&lt;/b&gt;&lt;hr&gt;Publish social media content&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Y2r3BIoxPLuxaXFssLte-20" target="Y2r3BIoxPLuxaXFssLte-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-19" value="serves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y2r3BIoxPLuxaXFssLte-18">
+          <mxGeometry x="-0.1509" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y2r3BIoxPLuxaXFssLte-20" value="&lt;div&gt;TC 1&lt;/div&gt;Social media platforms" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5kzOQh2xVhmlEhqCP010" name="technology">
+    <mxGraphModel dx="365" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
