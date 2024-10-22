@@ -1272,20 +1272,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5kzOQh2xVhmlEhqCP010" name="technology">
-    <mxGraphModel dx="3047" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F2rYMN4bGxMUkj7Fc2HB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="F2rYMN4bGxMUkj7Fc2HB-2" target="F2rYMN4bGxMUkj7Fc2HB-5">
+        <mxCell id="F2rYMN4bGxMUkj7Fc2HB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F2rYMN4bGxMUkj7Fc2HB-2" target="F2rYMN4bGxMUkj7Fc2HB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2rYMN4bGxMUkj7Fc2HB-7" value="uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2rYMN4bGxMUkj7Fc2HB-6">
+        <mxCell id="F2rYMN4bGxMUkj7Fc2HB-7" value="supports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2rYMN4bGxMUkj7Fc2HB-6">
           <mxGeometry x="-0.0275" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ng_rCbfuF5SwUB0_9y-d-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="F2rYMN4bGxMUkj7Fc2HB-2" target="Q0RKM4Kn7j8fRri-0dJ8-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="290" />
+              <mxPoint x="-100" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ng_rCbfuF5SwUB0_9y-d-55" value="requires" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ng_rCbfuF5SwUB0_9y-d-54">
+          <mxGeometry x="-0.3447" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F2rYMN4bGxMUkj7Fc2HB-2" value="&lt;b&gt;Process 2&lt;/b&gt;&lt;hr&gt;Publish social media content&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2rYMN4bGxMUkj7Fc2HB-5" value="&lt;div&gt;TC 1&lt;/div&gt;&lt;div&gt;Content management system&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="255" width="130" height="70" as="geometry" />
@@ -1326,14 +1339,6 @@
         </mxCell>
         <mxCell id="Ng_rCbfuF5SwUB0_9y-d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ng_rCbfuF5SwUB0_9y-d-3" target="pxPXSrmAoWbsGzI7umFO-1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ng_rCbfuF5SwUB0_9y-d-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ng_rCbfuF5SwUB0_9y-d-3" target="Ng_rCbfuF5SwUB0_9y-d-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ng_rCbfuF5SwUB0_9y-d-53" value="supports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ng_rCbfuF5SwUB0_9y-d-52">
-          <mxGeometry x="-0.1551" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ng_rCbfuF5SwUB0_9y-d-3" value="&lt;div&gt;TC 4&lt;/div&gt;Content creation tools" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="465" width="130" height="70" as="geometry" />
