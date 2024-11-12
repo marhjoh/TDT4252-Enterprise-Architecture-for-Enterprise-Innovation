@@ -396,7 +396,6 @@
         <bounds x="564" y="420" width="120" height="55"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Concept" id="id-09ae56302d8a48529cea9b2afc13cc0b"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Organizational" id="id-70b2fefa747b4e94a77b0df819c68104">
       <child xsi:type="archimate:DiagramObject" id="id-d5549421d9b643a599a7a3bbafb834ef" archimateElement="id-af6dc204fb884740b4e073fc4623eb87">
         <bounds x="-36" y="288" width="120" height="55"/>
@@ -545,7 +544,7 @@
           <sourceConnection xsi:type="archimate:Connection" id="id-98452b8826a74fc9aceebe4f5db2036a" source="id-ba5d1283d57b4f18a06e4ee99c231013" target="id-b5901144f0294de18a988042a59a01cd" archimateRelationship="id-050a1e0707f54e41924df0f02b6685bc"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b5901144f0294de18a988042a59a01cd" targetConnections="id-9dd94501ae8545d1b7d3af911f366dc0 id-98452b8826a74fc9aceebe4f5db2036a id-007e7690b7114e7096e0ea8be57e6183" archimateElement="id-ab806286d57b4d16bedadb6eb268517f">
-          <bounds x="492" y="36" width="120" height="55"/>
+          <bounds x="492" y="36" width="133" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-2bdf0a1ddbc94e479981c4d94050b185" source="id-b5901144f0294de18a988042a59a01cd" target="id-8e037a98406f4500b2896ef8ce33e75e" archimateRelationship="id-8bd6b3646c4341ea863f22132b914be9"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8e037a98406f4500b2896ef8ce33e75e" targetConnections="id-dee9372b5859457481e2f587a93c4e46 id-2bdf0a1ddbc94e479981c4d94050b185 id-232578e1654e4fe68c84efb31672222f" archimateElement="id-f18a5f4435a14d2b87332dd02020a33c">
